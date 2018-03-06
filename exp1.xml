@@ -1,0 +1,7 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="exp1.css"?>
+
+<FirstTag>
+ This is my first XML file
+ <!-- This is a comment in this file -->
+ </FirstTag>

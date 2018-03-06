@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="businesscard.css"?>
+
+<BusinessCard>
+<Name>Simon Imoh</Name>
+<phone type="mobile">(08163737165)</phone>
+<phone type="work">(800) 555-9876</phone>
+<phone type="fax">(510) 555-1234</phone>
+<email>imohsis@gmail.com</email>
+</BusinessCard>   

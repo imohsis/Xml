@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="buscard2.css"?>
+<BusinessCards>
+<BusinessCard>
+<Name>Simon Imoh</Name>
+<phone type="mobile" primary="primary">(08163737165)</phone>
+<phone type="work">(800) 555-9876</phone>
+<phone type="fax">(510) 555-1234</phone>
+<email>imohsis@gmail.com</email>
+</BusinessCard> 
+<BusinessCard>
+<Name>Someone Else</Name>
+<phone type="mobile">(08034729624)</phone>
+<phone type="work">(800) 555-9876</phone>
+<phone type="fax" primary="primary">(510) 555-1234</phone>
+<email>graceworld0@yahoo.com</email>
+</BusinessCard> 
+</BusinessCards> 
